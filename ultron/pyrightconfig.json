@@ -1,0 +1,18 @@
+{
+  "include": [
+    "main.py",
+    "core",
+    "skills"
+  ],
+  "exclude": [
+    ".venv",
+    "data",
+    "workspace"
+  ],
+  "extraPaths": [
+    "."
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "pythonVersion": "3.13"
+}
